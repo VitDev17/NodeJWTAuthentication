@@ -8,4 +8,4 @@ Run:	</br>
   2 - npm start		</br>
 
 
-<p style="font-size:8px;color:red;">If you wanna contribute to create a good forntend related to the aim of the project just donwload and make a commit</p>
+<p style="font-size:8px;color:red;">If you wanna contribute to create a good forntend related to the aim of the project just download and make a commit</p>
